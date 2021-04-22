@@ -6,7 +6,7 @@ Beginner project developed to enhance my skills in the Swift language.
 Learned fundamentals about manipulating databases and APIs.
 Learned fundamentals about app development, specialized in iOS app development.
 
-HOW TO RUN?
+HOW TO RUN? \n
 Simply clone this repo in xcode.
 Compile and download executable on phone.
 Run app on phone, and experience current cryptocurrency prices.
