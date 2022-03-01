@@ -1,6 +1,4 @@
-# ByteCoinExchange
-# Nathan Rowe
-
+<h1> BYTE COIN EXCHANGE APP </h1>
 Simple iOS app that displays current cryptocurrency prices.  
 Beginner project developed to enhance my skills in the Swift language.  
 Learned fundamentals about manipulating databases and APIs.  
