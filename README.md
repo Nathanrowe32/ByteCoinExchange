@@ -1,12 +1,9 @@
-<h1> BYTE COIN EXCHANGE APP </h1>
-Simple iOS app that displays current cryptocurrency prices.  
-Beginner project developed to enhance my skills in the Swift language.  
-Learned fundamentals about manipulating databases and APIs.  
-Learned fundamentals about app development, specialized in iOS app development.  
+<h1> Byte Coin Exchange App <h1>
 
-# HOW TO RUN?  
-Simply clone this repo in xcode.  
-Compile and download executable on phone.  
-Run app on phone, and experience current cryptocurrency prices.  
+iOS application that will display the current BTC (Bitcoin) price on screen in different currencies around the world.
   
-Very interesting stuff with more projects coming.  
+<h1> ## Installation <h1>
+
+<h1> ## Usage </h1>
+
+<h1> # Additional notes </h1>
